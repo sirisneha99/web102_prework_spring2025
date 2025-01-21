@@ -22,16 +22,22 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
+Please click on this loom link to have a climpse of my website
+
+https://www.loom.com/share/5489f636b05049dbbf26bfc5606668d0?sid=78d2db6b-7b6f-4d6a-9b0f-b28e24fc11da 
+
 Here's a walkthrough of implemented features:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5489f636b05049dbbf26bfc5606668d0?sid=0eedc77d-2bd2-4ee9-9ab5-ce9deab03253" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
+Library | Loom - 21 January 2025 - Watch Video
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<vid src = "https://www.loom.com/share/5489f636b05049dbbf26bfc5606668d0?sid=78d2db6b-7b6f-4d6a-9b0f-b28e24fc11da" title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video  created with ...  
+Loom
 
 ## Notes
 
