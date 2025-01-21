@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Cabin';
+    background-color: #758190;
+}
+
+#tentacles {
+    width: 50px;
+}
+
+
+.header {
+    display: flex;
+    background-color: lightblue;
+    padding: 1%;
+    align-items: center;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+  }
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+  }
+  
+.stats-card {
+  background-color: white; /* Card background color */
+  border-radius: 7px; /* Smooth corners */
+  padding: 1%; /* Inner spacing */
+  margin: 1%; /* Space around the card */
+  width: 100%;
+  text-align: center; /* Center-align text */
+  transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth hover animations */
+}
+
+
+#num-contributions, #total-raised, #num-games {
+    font-size: 50px;
+}
+
+#games-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.game-img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #FFFFFF;
+}
+.game-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+ 
+
+.game-card {
+    background-color: #FFFFFF;
+    padding: 1%;
+    margin: 1%;
+    width: 300px;
+    text-align: center;
+    border-radius: 7px;
+    transition: transform 0.3s ease;
+}
+
+.game-card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+.game-card h3 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.game-card p {
+    color: #555;
+    font-size: 1rem;
+}
+
+.highlighted {
+    border: 2px solid gold;
+    background-color: #fffae6;
+}
+
+
+#button-container {
+    text-align: center;
+}
+
+button {
+    font-family: 'Cabin';
+    border: none;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+}
